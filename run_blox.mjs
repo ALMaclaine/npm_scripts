@@ -1,2 +1,2 @@
-import { build } from '@almaclaine/npm-scripts';
-build();
+import { blox } from '@almaclaine/npm-scripts';
+blox();
